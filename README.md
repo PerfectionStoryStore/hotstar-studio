@@ -43,4 +43,4 @@ Powerful **Hotstar Studio** management toolkit providing Gantt charts, resource 
 
 ## Legal
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.                   
+> For personal, lawful use only. Trademarks are the property of their owners.                    
